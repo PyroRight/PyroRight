@@ -5,7 +5,7 @@
 <h3 align=center>My discord: JennyWakeman#3802
 <br>
 </div>
-<h3 align="center">🔭 I’m currently working on HymGal site (and forum&)
+<h3 align="center">🔭 I’m currently working on HymGal site (and forum?)
 <h2 align="center">🌱 I’m currently learning js and web langs
 
 ## License for all my projects
